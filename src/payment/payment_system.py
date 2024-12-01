@@ -1,4 +1,3 @@
-```python
 import uuid
 from datetime import datetime
 from typing import Dict, Optional
@@ -18,8 +17,9 @@ class PaymentProcessor:
         transaction_id = str(uuid.uuid4())
         
         try:
-            # Payment processing simulation
-            success = self._process_paypal_payment(amount, user_data)
+            # GitHub Sponsors payment processing placeholder
+            # Will be replaced with actual GitHub Sponsors API integration later
+            success = self._process_github_sponsors_payment(amount, user_data)
             
             # Log transaction
             self.transaction_log[transaction_id] = {
@@ -52,10 +52,10 @@ class PaymentProcessor:
                 'message': f'Error processing payment: {str(e)}'
             }
 
-    def _process_paypal_payment(self, amount: float, user_data: Dict) -> bool:
+    def _process_github_sponsors_payment(self, amount: float, user_data: Dict) -> bool:
         """
-        PayPal payment processing placeholder
-        Will be replaced with actual PayPal API integration later
+        GitHub Sponsors payment processing placeholder
+        Will be replaced with actual GitHub Sponsors API integration later
         """
         try:
             # Simulate successful payment
@@ -135,4 +135,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-```
