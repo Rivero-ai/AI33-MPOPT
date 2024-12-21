@@ -35,24 +35,24 @@ Multiverse Binary Observer Tracking System:
 
 ### Force Dynamics
 1. Strong Nuclear Force (Dark Energy)
-  - 20 Green Multiverse Spheres
-  - Pushing force dynamics
-  - Curvilinear energy flow
+   - 20 Green Multiverse Spheres
+   - Pushing force dynamics
+   - Curvilinear energy flow
 
 2. Weak Nuclear Force (Dark Matter)
-  - 12 Yellow Multiverse Spheres
-  - Pulling force mechanics
-  - Rotational dynamics
+   - 12 Yellow Multiverse Spheres
+   - Pulling force mechanics
+   - Rotational dynamics
 
 3. Electromagnetic Force
-  - Central Universe (#33)
-  - Singularity point
-  - Force unification
+   - Central Universe (#33)
+   - Singularity point
+   - Force unification
 
 4. Gravitational Force
-  - System-wide integration
-  - Energy connection
-  - Force harmonization
+   - System-wide integration
+   - Energy connection
+   - Force harmonization
 
 ## Framework Modules
 
@@ -176,7 +176,9 @@ Multiverse Binary Observer Tracking System:
 - Email: rolandorivero31@gmail.com
 - GitHub: https://github.com/Rivero-ai/AI33-MPOPT
 
-## License & Recognition
-- MIT License with Recognition Requirements
-- Standard Citation: AI33-MPOPT (Rivero, 2024)
-- Required Attribution in All Works
+## Citation
+If you use AI33-MPOPT, please cite:
+
+Rolando Rivero. (2024). Rivero-ai/AI33-MPOPT: AI33-MPOPT Initial Framework Release (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.14538468
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14538468.svg)](https://doi.org/10.5281/zenodo.14538468)
