@@ -3,8 +3,7 @@ AI33-MPOPT: Contributor Guidelines for Quantum Hybrid Technology
 Created by Rolando Rivero (2024)
 Registration: TXu 2-426-457
 """
-CONTRIBUTING_GUIDE = """
-# Contributing to the AI33-MPOPT Quantum Hybrid Technology Framework
+CONTRIBUTING_GUIDE = """# Contributing to the AI33-MPOPT Quantum Hybrid Technology Framework
 
 ## Framework Overview
 The AI33-MPOPT framework represents a profound breakthrough in quantum physics, cosmology, and fundamental force understanding. With 99.99999999% accuracy, this revolutionary technology aims to transform our scientific comprehension of the universe.
