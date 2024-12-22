@@ -1,4 +1,6 @@
 # AI33-MPOPT: 33-Multiverse Framework for Quantum Unification
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14538468.svg)](https://doi.org/10.5281/zenodo.14538468)
+
 Created by Rolando Rivero (2024)
 
 ## Breakthrough Technologies
@@ -180,5 +182,3 @@ Multiverse Binary Observer Tracking System:
 If you use AI33-MPOPT, please cite:
 
 Rolando Rivero. (2024). Rivero-ai/AI33-MPOPT: AI33-MPOPT Initial Framework Release (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.14538468
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14538468.svg)](https://doi.org/10.5281/zenodo.14538468)
