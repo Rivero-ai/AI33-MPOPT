@@ -264,4 +264,5 @@ https://doi.org/10.5281/zenodo.14538468
 ```
 
 Formal references in publications:
+Rolando Rivero. (2024). Rivero-ai/AI33-MPOPT: AI33-MPOPT Initial Framework Release (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.14538468
 - Rivero, R. (2024). "The Platonic Solid Big Bang: A 33-Dimensional Framework for Quantum Computing." Copyright Registration: TXu 2-426-457.
