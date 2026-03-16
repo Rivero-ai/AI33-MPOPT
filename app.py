@@ -194,7 +194,7 @@ with tabs[1]:
     # -------------------------------
     # IMPORT BACKEND SPECTRAL ENGINES
     # -------------------------------
-    from spectral.rivero_zeta import (
+    
         omega_3d_synth, omega_4d_synth, omega_5d_synth,
         omega_3d_prime, omega_4d_prime, omega_5d_prime,
         spectrum_invariant_summary,
