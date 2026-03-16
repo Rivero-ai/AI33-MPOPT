@@ -90,7 +90,6 @@ st.write("Deterministic, collision-free spectral invariants and JWST-anchored co
 # ------------------------------------------------------------
 # ROUTER INSTANCE (FOR SYSTEM SNAPSHOT & GEOMETRY)
 # ------------------------------------------------------------
-router = ai33_router
 
 # ------------------------------------------------------------
 # UTILITY
