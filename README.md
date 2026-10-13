@@ -405,5 +405,5 @@ If you reference this work in your research, please use the following citation:
 
 Formal references in publications: Rivero, R. (2024). The Platonic Solid Big Bang: AI33-MPOPT Quantum Hybrid Technology. Zenodo. [https://doi.org/10.5281/zenodo.14538468](https://doi.org/10.5281/zenodo.14538468)
 
-Rivero, R. (2024). "The Platonic Solid Big Bang: A 33-Dimensional Framework for Quantum Computing." Copyright Registration: TXu 2-426-457.<img width="2456" height="867" alt="two_cones" src="https://github.com/user-attachments/assets/b8d05dfe-204f-4978-b832-ec846fb1f8d8" />
+Rivero, R. (2024). "The Platonic Solid Big Bang: A 33-Dimensional Framework for Quantum Computing." Copyright Registration: TXu 2-426-457.
 
