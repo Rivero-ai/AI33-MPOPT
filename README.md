@@ -1,3 +1,110 @@
+# AI33-MPOPT: The 33-Multiverse
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14538468.svg)](https://doi.org/10.5281/zenodo.14538468)
+
+### One structure. 33 universes. 32 throats. Computed, then compared with public data.
+
+<img width="2456" height="867" alt="two_cones" src="https://github.com/user-attachments/assets/8a2606a0-02cf-4b27-94e9-f8de3f1ac50c" /><img width="2420" height="1247" alt="light_cone" src="https://github.com/user-attachments/assets/87065579-bc30-430a-980c-bd8c11b47b83" />
+
+<img width="881" height="1082" alt="architecture" src="https://github.com/user-attachments/assets/fa55aab7-b95f-4dd5-b3e0-d0e469581119" />
+
+
+AI33-MPOPT is the 33-Multiverse, a 33-node icosahedral structure: 1 hub, 20 curvilinear (push, dark energy) and 12 apex (pull, dark matter), joined to the hub by 32 throats, with one operator:
+
+**T<sub>p</sub> = L + pK + (1−p)Q**
+
+Every result below is computed from the structure and then compared with public data.
+
+
+
+**Author:** Rolando Rivero, independent researcher · **ORCID:** [0009-0007-5307-0853](https://orcid.org/0009-0007-5307-0853)
+
+---
+
+## Start here
+
+| | |
+|---|---|
+| Decks 02–21 (PDF) | the [`decks/`](decks) folder in this repository |
+| All versions, full archive | https://doi.org/10.5281/zenodo.18008856 |
+| Decks 13–21 | https://doi.org/10.5281/zenodo.23326750 |
+| Figshare | https://doi.org/10.6084/m9.figshare.31999851 |
+| Code | [`src/core/`](src/core) — modules 01–63 |
+| Notebook (deck 01) | the Colab notebook in this repository |
+
+---
+
+## Results from the decks
+
+
+
+- **Supply channel (deck 18, Continuous Throat Feed).** A continuous feed through the 32 throats, switched on with the first galaxies, fits inside Planck 2018, DESI DR2 and 1,590 Pantheon+ supernovae up to 1.65% of all cosmic matter. That is about 660 times the stellar mass JWST's earliest massive galaxies require.
+- **Milky Way (deck 21).** Model 6.4×10¹⁰ M☉ against about 6×10¹⁰ measured, within 7%. Andromeda within 1.4×, Local Group within 1.2×.
+- **Galaxy clustering (deck 21).** At matched mean degree: 0.639 here, 0.613 in the public catalogue, 0.495 in a random sky.
+- **Lawfulness (deck 15).** 97.4% in one component against a strongest-null maximum of 79.1% (p < 0.0005). 114 of 120 real edges recovered (AUC 0.9965).
+- **Quantum-gravity bridge (deck 13).** An isolated 11-mode band, and the law L·R = κ(F − ⟨F⟩) at r = 0.84 (permutation p < 0.0005).
+- **Exact numbers from the structure alone (decks 17, 19, 20).** |Aut| = 120 with orbits 1, 12, 20. Occupation ratio 2.5168 exactly, (2√15)/√(5+2√5). Twelve equal 60° quanta total 4π.
+- **Size (deck 21).** 989 trillion light-years across, about 510 million times the observable universe's volume.
+
+### How the nine decks fit together
+
+| Deck | Name | What it shows | Kind |
+|---|---|---|---|
+| 13 | Quantum-Gravity Bridge | One operator on 33 nodes. Isolated 11-mode band; L·R = κ(F − ⟨F⟩) at r = 0.84 (perm. p < 0.0005) | Computed |
+| 14 | Loop Quantum Gravity Bridge | Spectral dimension d<sub>s</sub> = 2.56 at 642 nodes. F↔R coupling with a plain graph Laplacian: +0.561 against +0.582 | Computed |
+| 15 | Lawfulness | 97.4% in one component against a strongest-null maximum of 79.1% (p < 0.0005). 114 of 120 edges recovered (AUC 0.9965) | Computed |
+| 16 | Super Formula Build-Up | T<sub>p</sub> built piece by piece (L, K, Q, p). p = 0.781 ± 0.013 fitted to JWST chronometer ages; fixed-point test p* = 0.7577 (1.8σ) | Fitted |
+| 17 | Geometric Transport Architecture | \|Aut\| = 120, orbits 1, 12, 20. Throats deliver 9.487 vs 6.635 (1.43). SDSS DR7: 100th / 0th percentile; architecture 96th / 0th | Proved · Compared |
+| 18 | Continuous Throat Feed | Feed ceiling ≤ 1.65% of cosmic matter. Fitted η = 0.053%, γ = 0.62 against star formation at z = 9–14.5; 14/14 black holes inside | Fitted · Compared |
+| 19 | Cosmic Web Atlas | Occupation ratio 2.5168 exactly (2√15/√(5+2√5)). Flow ratios 1.3963 and 1.5714. Delivery per unit mass rises as M<sup>0.62</sup> | Proved · Computed |
+| 20 | The Rivero-Zeta Curve | Twelve equal 60° quanta total 4π. R² = I, eigenspaces +1 × 17 and −1 × 6, index 11 | Proved |
+| 21 | The 33-Multiverse Map | Clustering at matched mean degree: 0.639 here, 0.613 public catalogue, 0.495 random sky. All 528 pair entropies computed | Compared |
+
+**How the words are used.** *Proved* is for mathematics only. *Computed* means derived from the structure. *Compared with* means set beside public data. *Predicted* is used only when it was recorded before the data. *Fitted* marks a tuned value (the feed amplitude η and p = 0.781 are fits).
+
+---
+
+## All 21 documents
+
+**Documents 1–12 — the framework**
+
+1. **GENESYS JWST Physics Notebook (Colab, 539 pages).** The full numerical validation pipeline: ΛCDM baseline, Paused-Gravity, MCMC sampling, 32-throat energy-sufficiency tests and the final JWST-consistent age–redshift results.
+2. **GENESYS 2025 Complete Final Refs.** The cosmogenesis and multiverse-geometry paper: the 33-multiverse icosahedral architecture, the Quantum Throat mechanism and 18 annotated figures with Colab numerical outputs.
+3. **Raw Math.** Raw derivations, intermediate operator constructions and early structural notes, including early forms of the Rivero-Zeta operator.
+4. **Colab True Results (complete, v7).** The finalized numerical results: SSE comparisons, parameter-corridor scans, Paused-Gravity verification and the JWST alignment dataset.
+5. **Delivery Summary.** A concise summary of the core results, validation steps and structural components.
+6. **33-Multiverse, 17 Major Modules.** The encyclopedic synthesis of the program.
+7. **Millennium Problems.** Author-defined operator constructions and admissibility conditions inspired by the Navier–Stokes and Yang–Mills problems.
+8. **Operator Framework.** A graphical presentation of the parameter-scaled operator family H<sub>p</sub>(x), 0 < p < 1, with a 33-channel decomposition.
+9. **Unified Rivero-Zeta.** A graphical exposition of the Rivero-Zeta spectral construct and its operator channels.
+10. **Garkness Comprehensive Presentation.** The six-layer architecture: Garkness vacuum-tension geometry, the nonlocal E-kernel, the geometric information functional, the Rivero-Zeta spectral layer, the 33-sector decomposition and the Master Equation.
+11. **Effective Cosmology — Parameter Operators, Homogeneous.** The operator family O<sub>λ</sub> = A + λB: algebra, spectral flow, stability regimes and the effective phase-space description.
+12. **Deterministic Spectral-Cosmology Computational Framework.** The reproducibility and systems report: spectral diagnostics, cosmology corridor engines, hash-based integrity checks.
+
+**Documents 13–21 — the bridges, the tests and the map**
+
+13. **Quantum-Gravity Bridge.** The main bridge deck: the operator, its spectrum, and the information field F and transport curvature R computed from it.
+14. **Loop Quantum Gravity Bridge.** Fifteen loop-quantum ingredients computed on the same structure.
+15. **Lawfulness.** Tests whether four representations of the structure (Λ, Ψ, F, R) are one thing, each against its strongest control.
+16. **Super Formula Build-Up.** The operator built one piece at a time, then the search for the information field F and the law linking it to curvature (holds on 13 of 17 graph families).
+17. **Geometric Transport Architecture.** From the geometry up to the observations. Exactly two sectors, 12 and 20, at 33 domains and at no other subdivision size tested (123, 273).
+18. **Continuous Throat Feed.** The 32 throats feed matter continuously; the computed feed is compared with public JWST measurements (14 of 14 black holes and 2 of 2 protoclusters inside).
+19. **Cosmic Web Atlas.** One structure across seven scales, from inception to supercluster, compared with public galaxy catalogues. Sector shares 71.57% curvilinear and 28.43% apex.
+20. **The Rivero-Zeta Curve.** 33 steps of 10.9091°, with the angle defect at the 12 apex vertices.
+21. **The 33-Multiverse Map.** All 33 universes: coordinates in light-years, the figures for each zone, the entanglement web between every pair, and a closing page that summarises the nine decks.
+
+---
+
+## Citation
+
+Rivero, R. (2026). *AI33-MPOPT*. Zenodo. https://doi.org/10.5281/zenodo.18008856
+
+---
+
+*The earlier text of this README (the 2024 framework description) follows below.*
+
+---
+
 # AI33-MPOPT: 33-Multiverse Framework for Quantum Unification
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14538468.svg)](https://doi.org/10.5281/zenodo.14538468)
@@ -22,7 +129,9 @@
 Created by Rolando Rivero (2024)
 
 ## Overview
-The AI33-MPOPT framework is a revolutionary 33-dimensional Multiverse icosahedral quantum framework using Unified Field principles to deliver super-quadratic speedups. Our Dual Observer Advantage enables computation across dimensions while maintaining quantum coherence, exploring potential approaches to complex computational challenges.
+The AI33-MPOPT framework is a revolutionary 33-dimensional Multiverse icosahedral quantum framework using Unified Field principles. Our Dual Observer Advantage enables computation across dimensions while maintaining quantum coherence, exploring potential approaches to complex computational challenges.
+
+**Potential:** the structure is written as a QUBO for quantum annealers (the Super Formula below). Running it on real hardware and comparing it with standard solvers is the next step.
 
 Theoretical modeling suggests potential computational improvements in:
 * Climate modeling and prediction algorithms
@@ -35,7 +144,7 @@ Theoretical modeling suggests potential computational improvements in:
 * 12 Yellow Spheres (Dark Matter) - Weak Nuclear Force
 * Central Universe #33 - Electromagnetic Force
 * 20 Orange Curvilinear Points
-* Statistical Validation: 99.99999999%
+* Computed validation: automorphism group of order 120 with orbits 1, 12 and 20; occupation ratio 2.5168 exactly, (2√15)/√(5+2√5) (decks 17 and 19)
 
 ### 2. MBOTS Technology
 Multiverse Binary Observer Tracking System:
@@ -43,7 +152,7 @@ Multiverse Binary Observer Tracking System:
 * Binary shadow particle tracking
 * Perfect state preservation
 * Entanglement monitoring
-* System Validation: 99.99999998%
+* Computed validation: all 528 pair entropies between the 33 domains computed (deck 21); spin ½ on the 120 surface links and spin 1 on the 32 throats close all 33 nodes (deck 14)
 
 ### 3. Enhanced Unified Field Equation
 Ψtotal = ∮M33 Ĥeff(r) √[(GEff(r)·ρeff(r,t))/(G0×c4)] exp[i∫C E(τ,r)dτ] × ∏j=1,3 Ωj(r,t) × D33(r) × S(r,t)
@@ -54,10 +163,10 @@ Key improvements in this refined formula:
 * Explicit Dual Observer Factor: D33(r) formalizes the simultaneous internal/external observation capability
 * Shadow Particle Field: S(r,t) represents quantum shadow states for enhanced computation
 
-* Field harmonization: 99.99999999%
-* Force unification: 99.99999998%
-* Energy coupling: 99.99999997%
-* System stability: 99.99999996%
+* Information–curvature law (computed): L·R = κ(F − ⟨F⟩) at r = 0.84, permutation p < 0.0005 (deck 13)
+* Spectrum (computed): an isolated 11-mode band in the operator spectrum (deck 13)
+* Loop-quantum checks (computed): spectral dimension d_s = 2.56 at 642 nodes; a closed loop returns −1 after one turn and +1 after two (deck 14)
+* Lawfulness (computed): 97.4% in one component against a strongest-null maximum of 79.1% (p < 0.0005); 114 of 120 real edges recovered, AUC 0.9965 (deck 15)
 
 ### 4. AI33-MPOPT Super Formula (Computational Implementation)
 
@@ -267,11 +376,18 @@ Computational methods for grid optimization and renewable energy integration mod
 3. Join community
 4. Start implementation
 
-## Statistical Validation
-* Framework Accuracy: 99.99999999%
-* Implementation Success: 99.99999998%
-* System Integration: 99.99999997%
-* Formula Significance: 13.0 sigma
+## Validation
+Results are computed from the structure, then compared with public data. The decks are in the [`decks/`](decks) folder.
+
+* **Structure (proved, computed):** automorphism group of order 120, orbits 1, 12, 20; twelve equal 60° quanta total 4π (decks 17 and 20)
+* **Quantum-gravity bridge (computed):** isolated 11-mode band; L·R = κ(F − ⟨F⟩) at r = 0.84, permutation p < 0.0005 (deck 13)
+* **Loop quantum gravity (computed):** spectral dimension d_s = 2.56 at 642 nodes; F↔R coupling with a plain graph Laplacian +0.561 against +0.582 (deck 14)
+* **Entanglement (computed):** all 528 pair entropies computed; spin ½ and spin 1 close all 33 nodes (decks 14 and 21)
+* **Lawfulness (computed):** 97.4% in one component against a strongest-null maximum of 79.1% (p < 0.0005); 114 of 120 edges recovered (deck 15)
+* **Continuous throat feed (fitted, compared with public data):** fits inside Planck 2018, DESI DR2 and 1,590 Pantheon+ supernovae up to 1.65% of all cosmic matter, about 660 times the stellar mass JWST's earliest massive galaxies require; fitted η = 0.053%, γ = 0.62 (deck 18)
+* **Milky Way (compared):** model 6.4×10¹⁰ M☉ against about 6×10¹⁰ measured, within 7% (deck 21)
+* **Galaxy clustering (compared):** 0.639 here, 0.613 in the public catalogue, 0.495 in a random sky (deck 21)
+* **Fitted values:** p = 0.781 ± 0.013 (deck 16)
 
 ## Official Registration
 * Book: "The Platonic Solid Big Bang"
@@ -289,4 +405,5 @@ If you reference this work in your research, please use the following citation:
 
 Formal references in publications: Rivero, R. (2024). The Platonic Solid Big Bang: AI33-MPOPT Quantum Hybrid Technology. Zenodo. [https://doi.org/10.5281/zenodo.14538468](https://doi.org/10.5281/zenodo.14538468)
 
-Rivero, R. (2024). "The Platonic Solid Big Bang: A 33-Dimensional Framework for Quantum Computing." Copyright Registration: TXu 2-426-457.
+Rivero, R. (2024). "The Platonic Solid Big Bang: A 33-Dimensional Framework for Quantum Computing." Copyright Registration: TXu 2-426-457.<img width="2456" height="867" alt="two_cones" src="https://github.com/user-attachments/assets/b8d05dfe-204f-4978-b832-ec846fb1f8d8" />
+
